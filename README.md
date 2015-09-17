@@ -1,6 +1,9 @@
 # libchan: like Go channels over the network
 [![Circle CI](https://circleci.com/gh/docker/libchan.svg?style=svg)](https://circleci.com/gh/docker/libchan)
 
+![https://codeship.com/projects/067ed0f0-3f82-0133-fcad-76eccebc8cd3/status?branch=master](https://codeship.com/projects/067ed0f0-3f82-0133-fcad-76eccebc8cd3/status?branch=master)
+
+
 Libchan is an ultra-lightweight networking library which lets network services communicate
 in the same way that goroutines communicate using channels:
 
